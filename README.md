@@ -31,7 +31,12 @@ Under the 'Save File' button the user can select from a drop-down menu the type 
 
 Example: C:/Users/me/desktop/animation.txt  OR  C:/Users/me/desktop/animation.SVG
 
+8. Slider
+
+Use the bottom slider to advance through the animation.
+
 Sample Main Program Arguments
+
 •	-view edit -speed 200 -in "…\EnhancedAnimator\examples\buildings.txt"
 
 	
