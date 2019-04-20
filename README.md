@@ -35,6 +35,8 @@ Example: C:/Users/me/desktop/animation.txt  OR  C:/Users/me/desktop/animation.SV
 
 Use the bottom slider to traverse through the animation.
 
+![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/EditorView.PNG)
+
 
 RUNNING THE PROGRAM
 
