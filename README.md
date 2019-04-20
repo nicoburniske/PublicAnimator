@@ -35,8 +35,10 @@ Example: C:/Users/me/desktop/animation.txt  OR  C:/Users/me/desktop/animation.SV
 
 Use the bottom slider to traverse through the animation.
 
-![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/EditorView.PNG)
+#Screenshots and examples
 
+![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/EditorView.PNG)
+![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/SVG%20Output/buildings.svg)
 
 RUNNING THE PROGRAM
 
