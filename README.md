@@ -35,8 +35,26 @@ Example: C:/Users/me/desktop/animation.txt  OR  C:/Users/me/desktop/animation.SV
 
 Use the bottom slider to traverse through the animation.
 
+#Screenshots and examples
+
+![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/EditorView.PNG)
+![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/SVG%20Output/hanoi.svg)
+
+RUNNING THE PROGRAM
+
+You should use one of the supplied text files in the examples directory. You should then choose the view of your choice (edit, visual, svg, text, provider). Specify an output directory if you choose either text or svg. 
+
+The user input as program arguments should follow the following template 
+
+-view (your selected view)
+-in (your selected file path) 
+-out (your selected file path)
+
 Sample Main Program Arguments
 
-•	-view edit -speed 200 -in "…\EnhancedAnimator\examples\buildings.txt"
+-view edit -speed 200 -in "...\PublicAnimator\examples\buildings.txt"
+
+-view svg -speed 200 -in "...\PublicAnimator\examples\hanoi.txt" -out "hanoi.svg"
+
 
 	
