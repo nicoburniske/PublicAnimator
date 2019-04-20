@@ -38,7 +38,7 @@ Use the bottom slider to traverse through the animation.
 #Screenshots and examples
 
 ![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/EditorView.PNG)
-![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/SVG%20Output/buildings.svg)
+![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/SVG%20Output/hanoi.svg)
 
 RUNNING THE PROGRAM
 
