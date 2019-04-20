@@ -33,7 +33,7 @@ Example: C:/Users/me/desktop/animation.txt  OR  C:/Users/me/desktop/animation.SV
 
 8. Slider
 
-Use the bottom slider to advance through the animation.
+Use the bottom slider to traverse through the animation.
 
 Sample Main Program Arguments
 
