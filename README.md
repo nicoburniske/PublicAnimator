@@ -35,7 +35,7 @@ Example: C:/Users/me/desktop/animation.txt  OR  C:/Users/me/desktop/animation.SV
 
 Use the bottom slider to traverse through the animation.
 
-#Screenshots and examples
+Screenshots and examples
 
 ![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/EditorView.PNG)
 ![alt text](https://github.com/nicoburniske/PublicAnimator/blob/master/examples/SVG%20Output/hanoi.svg)
@@ -55,6 +55,5 @@ Sample Main Program Arguments
 -view edit -speed 200 -in "...\PublicAnimator\examples\buildings.txt"
 
 -view svg -speed 200 -in "...\PublicAnimator\examples\hanoi.txt" -out "hanoi.svg"
-
 
 	
