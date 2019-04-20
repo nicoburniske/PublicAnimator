@@ -16,8 +16,8 @@ import cs3500.animator.util.Coord;
  */
 public class AnimationModelImpl implements AnimationModel, ReadAnimationModel {
 
-  private LinkedHashMap<String, IShape> shapes;
-  private HashMap<String, ActionsHolder> actions;
+  private Map<String, IShape> shapes;
+  private Map<String, ActionsHolder> actions;
   private BoundHolder bounds;
 
   /**
